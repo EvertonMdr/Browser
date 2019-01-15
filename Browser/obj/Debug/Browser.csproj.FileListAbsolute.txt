@@ -1,0 +1,53 @@
+F:\Browser\Browser\bin\Debug\Browser.exe.config
+F:\Browser\Browser\obj\Debug\Browser.exe
+F:\Browser\Browser\obj\Debug\Browser.pdb
+F:\Browser\Browser\bin\Debug\Browser.exe
+F:\Browser\Browser\bin\Debug\Browser.pdb
+F:\Browser\Browser\obj\Debug\Browser.csprojResolveAssemblyReference.cache
+F:\Browser\Browser\obj\Debug\Browser.Form1.resources
+F:\Browser\Browser\obj\Debug\Browser.Properties.Resources.resources
+F:\Browser\Browser\obj\Debug\Browser.csproj.GenerateResource.Cache
+G:\Browser\Browser\obj\Debug\Browser.csprojResolveAssemblyReference.cache
+G:\Browser\Browser\bin\Debug\Browser.exe.config
+G:\gfg\Browser\Browser\bin\Debug\Browser.exe.config
+G:\gfg\Browser\Browser\obj\Debug\Browser.exe
+G:\gfg\Browser\Browser\obj\Debug\Browser.pdb
+C:\Users\Lenovo\Documents\Trabalhos\Browser\Browser\bin\Debug\Browser.exe.config
+C:\Users\Lenovo\Documents\Trabalhos\Browser\Browser\obj\Debug\Browser.exe
+C:\Users\Lenovo\Documents\Trabalhos\Browser\Browser\obj\Debug\Browser.pdb
+C:\Users\Lenovo\Documents\Trabalhos\Browser\Browser\bin\Debug\Browser.exe
+C:\Users\Lenovo\Documents\Trabalhos\Browser\Browser\bin\Debug\Browser.pdb
+C:\Users\Lenovo\Documents\Trabalhos\Browser\Browser\obj\Debug\Browser.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Trabalhos\Browser\Browser\obj\Debug\Browser.Form1.resources
+C:\Users\Lenovo\Documents\Trabalhos\Browser\Browser\obj\Debug\Browser.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Trabalhos\Browser\Browser\obj\Debug\Browser.csproj.GenerateResource.Cache
+C:\Users\evert\Documents\Foguete\Imagens\Google Drive\Outros\2016\Browser\Browser\bin\Debug\Browser.exe.config
+C:\Users\evert\Documents\Foguete\Imagens\Google Drive\Outros\2016\Browser\Browser\bin\Debug\Browser.exe
+C:\Users\evert\Documents\Foguete\Imagens\Google Drive\Outros\2016\Browser\Browser\bin\Debug\Browser.pdb
+C:\Users\evert\Documents\Foguete\Imagens\Google Drive\Outros\2016\Browser\Browser\obj\Debug\Browser.csprojResolveAssemblyReference.cache
+C:\Users\evert\Documents\Foguete\Imagens\Google Drive\Outros\2016\Browser\Browser\obj\Debug\Browser.Form1.resources
+C:\Users\evert\Documents\Foguete\Imagens\Google Drive\Outros\2016\Browser\Browser\obj\Debug\Browser.Properties.Resources.resources
+C:\Users\evert\Documents\Foguete\Imagens\Google Drive\Outros\2016\Browser\Browser\obj\Debug\Browser.csproj.GenerateResource.Cache
+C:\Users\evert\Documents\Foguete\Imagens\Google Drive\Outros\2016\Browser\Browser\obj\Debug\Browser.csproj.CoreCompileInputs.cache
+C:\Users\evert\Documents\Foguete\Imagens\Google Drive\Outros\2016\Browser\Browser\obj\Debug\Browser.exe
+C:\Users\evert\Documents\Foguete\Imagens\Google Drive\Outros\2016\Browser\Browser\obj\Debug\Browser.pdb
+C:\Users\evert\Desktop\LPCARAI\Browser\Browser\bin\Debug\Browser.exe.config
+C:\Users\evert\Desktop\LPCARAI\Browser\Browser\bin\Debug\Browser.exe
+C:\Users\evert\Desktop\LPCARAI\Browser\Browser\bin\Debug\Browser.pdb
+C:\Users\evert\Desktop\LPCARAI\Browser\Browser\obj\Debug\Browser.csprojResolveAssemblyReference.cache
+C:\Users\evert\Desktop\LPCARAI\Browser\Browser\obj\Debug\Browser.Form1.resources
+C:\Users\evert\Desktop\LPCARAI\Browser\Browser\obj\Debug\Browser.Properties.Resources.resources
+C:\Users\evert\Desktop\LPCARAI\Browser\Browser\obj\Debug\Browser.csproj.GenerateResource.Cache
+C:\Users\evert\Desktop\LPCARAI\Browser\Browser\obj\Debug\Browser.csproj.CoreCompileInputs.cache
+C:\Users\evert\Desktop\LPCARAI\Browser\Browser\obj\Debug\Browser.exe
+C:\Users\evert\Desktop\LPCARAI\Browser\Browser\obj\Debug\Browser.pdb
+D:\Browser\Browser\bin\Debug\Browser.exe.config
+D:\Browser\Browser\bin\Debug\Browser.exe
+D:\Browser\Browser\bin\Debug\Browser.pdb
+D:\Browser\Browser\obj\Debug\Browser.csprojResolveAssemblyReference.cache
+D:\Browser\Browser\obj\Debug\Browser.Form1.resources
+D:\Browser\Browser\obj\Debug\Browser.Properties.Resources.resources
+D:\Browser\Browser\obj\Debug\Browser.csproj.GenerateResource.Cache
+D:\Browser\Browser\obj\Debug\Browser.csproj.CoreCompileInputs.cache
+D:\Browser\Browser\obj\Debug\Browser.exe
+D:\Browser\Browser\obj\Debug\Browser.pdb
